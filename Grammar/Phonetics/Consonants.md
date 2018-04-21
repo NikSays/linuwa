@@ -1,9 +1,10 @@
-﻿|Consonants (Pulmonic)|Bilabial|Alveolar|Palatal|
+﻿# Consonants
+|Pulmonic|Bilabial|Alveolar|Palatal|
 |---------------------|--------|--------|-------|
-|Nasal|m|n|
-|Lateral|l|
-|Approximant|β|ɹ|j|
+|**Nasal**|m|n|
+|**Lateral**|l|
+|**Approximant**|β|ɹ|j|
 
-|Consonants (Co-articulated)|
+|Co-articulated|
 |-----------------------------|
 |w - Voiced labial-velar approximant|

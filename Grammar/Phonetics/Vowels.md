@@ -1,4 +1,5 @@
-﻿|Vowels|Front|Back|
+﻿# Vowels
+||Front|Back|
 |-------|-----|----|
 |**Close**|i|u|
 |**Open-Mid**|ɛ|
