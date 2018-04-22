@@ -15,4 +15,4 @@ But then... we throw in a bunch of crazy stuff
 Here's the [spreadsheet](https://docs.google.com/spreadsheets/d/1u-A1Yo_9W-ZUnbYhrvTecitwkk-LSFmQ6-M-8JgrFS0/edit?usp=sharing) we work in, before pushing it here 
 
 *Vocabulary - coming soon*  
-*Guide - coming soon on [our site](niksays.github.io/linuwa)*
+*Guide - coming soon on [our site](http://niksays.github.io/linuwa)*
