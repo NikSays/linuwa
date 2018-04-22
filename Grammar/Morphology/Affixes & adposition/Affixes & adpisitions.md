@@ -1,4 +1,4 @@
-# Affixes & adpositions
+﻿# Affixes & adpositions
 |Name|Note|
 |----|----|
 |Preposition|Is sticked to the word|
