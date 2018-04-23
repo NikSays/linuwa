@@ -21,6 +21,7 @@ We want to know why you think anything should be changed
 * :vs: `:vs:` - correcting contradiction
 * :x: `:x:` - removing feature
 * :o: `:o:` - changing feature
-* :heavy_plus_sign: `:heavy_plus_sign:` - adding a feature
-
+* :heavy_plus_sign: `:heavy_plus_sign:` - adding a feature  
+* :abc: `:abc:` before any of above to make it vocabulary related
+ 
  
