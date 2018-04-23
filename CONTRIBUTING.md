@@ -9,7 +9,8 @@ This project is governed by our code of conduct. Please respect it
 #### Add, change, or remove feature
 Linuwa is project of balance between easy/familiar concepts and a little craziness, so if you think some feature is obsolete, described wrong, needs some change, **or** you want to add your own piece, we are already waiting pull request.
 #### Vocabulary making
-Coming soon
+Vocabulary is stored in csv file, you can open it in any text/spreadsheet editor and help us wordbuild.  
+Just be sure to leave it the same syntax, name, extention
 ## Enrich your commits
 #### First line should be short and informative
 Isn't it called "summary"?
