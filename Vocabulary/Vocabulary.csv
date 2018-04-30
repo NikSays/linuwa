@@ -2,7 +2,12 @@ TYPE,root/affix,Meaning
 ROOT,nau,I
 ROOT,reu,You
 ROOT,lio,He/she/it
+ROOT,,Person
+ROOT,,Place
+ROOT,,Tool
+ROOT,amira,Tea
 ROOT,awo,Hearing
+ROOT,ilamo,Beauty
 ROOT,jowa,Reading
 ROOT,la,Yes
 ROOT,linu,Easy
@@ -13,14 +18,12 @@ ROOT,mio,Thing (object)
 ROOT,muli,Writing
 ROOT,na,No
 ROOT,naao,Hello
+ROOT,nejo,Cat
 ROOT,nimo,Possesion ('s)
 ROOT,no,Walk
 ROOT,noi,Building
 ROOT,olora,Love
 ROOT,wio,Sight
-ROOT,,Person
-ROOT,,Tool
-ROOT,,Place
 PREP,ja,Above
 PREP,ji,With
 PREP,lii,On
