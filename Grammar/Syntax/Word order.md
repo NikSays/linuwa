@@ -4,6 +4,6 @@
 
 * Dependent word is always after the main one
 
-  `nejo loilamo, not loilamo nejo`
+  `nejo loilamo`, not `loilamo nejo`
 
 
