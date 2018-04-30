@@ -5,7 +5,7 @@ It all started with "what if we made our language?"
 We are making linuwa full of concepts, that are common to most of languages.
 But then... we throw in a bunch of crazy stuff
 
-=========================
+-----------------------
 
 ## A short guide
 
@@ -32,7 +32,7 @@ But then... we throw in a bunch of crazy stuff
 * ɹ is as R in Run
 * j is as Y in Yes
 
-﻿#### Vowels
+#### Vowels
 
 |              | Front          | Back           |
 | ------------ | -------------- | -------------- |
