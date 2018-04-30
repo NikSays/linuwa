@@ -1,6 +1,6 @@
 # README
 **Linuwa** probably is the first conlang published on github  
-It all started with "what if we did our language?"  
+It all started with "what if we made our language?"  
 We are making linuwa full of concepts, that are common to most of languages.
 But then... we throw in a bunch of crazy stuff
 ## Short info

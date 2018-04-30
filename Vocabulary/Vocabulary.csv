@@ -1,43 +1,43 @@
-Type,Root/affix,Meaning
-Root,nau,I
-Root,reu,You
-Root,lio,He/She/It
-Root,awo,Hearing
-Root,jowa,Reading
-Root,la,Yes
-Root,linu,Easy
-Root,loi,Living
-Root,lolo,World
-Root,lu,And
-Root,mio,Thing (object)
-Root,muli,Writing
-Root,na,No
-Root,naao,Hello
-Root,nimo,Possesion ('s)
-Root,no,Walk
-Root,noi,Building
-Root,olora,Love
-Root,wio,Sight
-Root,,Person
-Root,,Tool
-Root,,Place
-Prep,ja,Above
-Prep,ji,With
-Prep,lii,On
-Prep,mali,For
-Prep,mi,Between
-Prep,mui,To
-Prep,nei,About
-Prep,ni,In
-Prep,wi,Behind
-Prep,woi,Near
-Pref,le,Question
-Pref,li,Acusative
-Pref,lo,AdVerb/Jective
-Pref,mo,Verb
-Pref,u,Plural
-Postf,na,Negation
-Postf,ra,Purpose particle (Mowio -to see; Ramowio -to look)
-Postf,wa,The most
-Postf,weme,Some/any-
-Postf,wo,More/-er
+TYPE,root/affix,Meaning
+ROOT,nau,I
+ROOT,reu,You
+ROOT,lio,He/she/it
+ROOT,awo,Hearing
+ROOT,jowa,Reading
+ROOT,la,Yes
+ROOT,linu,Easy
+ROOT,loi,Living
+ROOT,lolo,World
+ROOT,lu,And
+ROOT,mio,Thing (object)
+ROOT,muli,Writing
+ROOT,na,No
+ROOT,naao,Hello
+ROOT,nimo,Possesion ('s)
+ROOT,no,Walk
+ROOT,noi,Building
+ROOT,olora,Love
+ROOT,wio,Sight
+ROOT,,Person
+ROOT,,Tool
+ROOT,,Place
+PREP,ja,Above
+PREP,ji,With
+PREP,lii,On
+PREP,mali,For
+PREP,mi,Between
+PREP,mui,To
+PREP,nei,About
+PREP,ni,In
+PREP,wi,Behind
+PREP,woi,Near
+PREF,le,Question
+PREF,li,Acusative
+PREF,lo,Adverb/jective
+PREF,mo,Verb
+PREF,u,Plural
+POSTF,na,Negation
+POSTF,ra,Purpose particle (mowio -to see; ramowio -to look)
+POSTF,wa,The most
+POSTF,weme,Some/any-
+POSTF,wo,More/-er

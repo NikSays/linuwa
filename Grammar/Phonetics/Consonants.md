@@ -8,3 +8,4 @@
 |Co-articulated|
 |-----------------------------|
 |w - Voiced labial-velar approximant|
+
