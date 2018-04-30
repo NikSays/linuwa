@@ -6,6 +6,5 @@
 
 * Separate dependents of 2+ main words with and
 
-  `nejo lomojowa loilamo - Beautifuly reading cat`
-
+  `nejo lomojowa loilamo - Beautifuly reading cat`  
   `nejo lomojowa lu loilamo - Beautiful and reading cat`

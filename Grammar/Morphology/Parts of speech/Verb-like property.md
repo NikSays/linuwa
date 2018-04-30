@@ -10,6 +10,5 @@ So this is basically a subordinate clause marker
 
 ### Separate verb-like properties' dependent words with "and"
 
-`nejo lomojowa loilamo - Beautifuly reading cat`
-
+`nejo lomojowa loilamo - Beautifuly reading cat`  
 `nejo lomojowa lu loilamo - Beautiful and reading cat`
