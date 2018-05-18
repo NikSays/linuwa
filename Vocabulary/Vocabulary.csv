@@ -5,6 +5,7 @@ ROOT,lio,He/she/it
 ROOT,,Person
 ROOT,,Place
 ROOT,,Tool
+ROOT,alane,knowledge
 ROOT,amira,Tea
 ROOT,awo,Hearing
 ROOT,ilamo,Beauty
@@ -37,10 +38,11 @@ PREP,woi,Near
 PREF,le,Question
 PREF,li,Acusative
 PREF,lo,Adverb/jective
-PREF,mo,Verb
+PREF,mo,Verb in non past
+PREF,me,Verb in past
 PREF,u,Plural
 POSTF,na,Negation
-POSTF,ra,Purpose particle (mowio -to see; ramowio -to look)
+POSTF,ra,Purpose particle (mowio -to see; mowiora -to look)
 POSTF,wa,The most
 POSTF,weme,Some/any-
 POSTF,wo,More/-er

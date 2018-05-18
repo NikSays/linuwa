@@ -1,4 +1,4 @@
-﻿# Vowels
+# Vowels
 ||Front|Back|
 |-------|-----|----|
 |**Close**|i|u|

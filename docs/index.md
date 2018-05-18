@@ -7,38 +7,9 @@ But then... we throw in a bunch of crazy stuff
 
 -----------------------
 
-## A short guide
+#### Here's a short guide to Linuwa
 
-### Phonetics
-
-* LInuwa has 11 sounds
-* Syllable is single/double consonant and 1-5 vowels
-  * One vowel can repeat only 2 times in a row
-* Only root vowel can be stressed
-
-#### Consonants
-
-| Pulmonic        | Bilabial | Alveolar | Palatal |
-| --------------- | -------- | -------- | ------- |
-| **Nasal**       | m        | n        |         |
-| **Lateral**     |          | l        |         |
-| **Approximant** |          | ɹ        | j       |
-
-| Co-articulated                      |
-| ----------------------------------- |
-| w - Voiced labial-velar approximant |
-
-* M, n, l, w are pronounced as in English
-* ɹ is as R in Run
-* j is as Y in Yes
-
-#### Vowels
-
-|              | Front          | Back           |
-| ------------ | -------------- | -------------- |
-| **Close**    | i (as in free) | u (as in boot) |
-| **Open-Mid** | ɛ (as in bed)  | ɔ (as in not)  |
-| **Open**     | a (UK hat)     |                |
-
-
-
+* Guide
+  * [Sounds](Guide/Phonetics)
+  * [Parts of speech](/Guide/PoS)
+  * [Sentence](/Guide/Syntax)

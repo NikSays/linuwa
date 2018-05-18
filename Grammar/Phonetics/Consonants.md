@@ -1,4 +1,4 @@
-﻿# Consonants
+# Consonants
 |Pulmonic|Bilabial|Alveolar|Palatal|
 |---------------------|--------|--------|-------|
 |**Nasal**|m|n||
