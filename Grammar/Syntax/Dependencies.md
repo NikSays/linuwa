@@ -8,3 +8,9 @@
 
   `nejo lomojowa loilamo - Beautifuly reading cat`  
   `nejo lomojowa lu loilamo - Beautiful and reading cat`
+
+## Dependent clause
+
+ro - subordinate clause marker, can be inflected. You can think about it, as a word combining the whole dependent clause in itself.
+
+In `nau namoolane lijoo joro reu meawo` ro is making the whole sentence after it an adjective by using jo. So it translates `I know the thing you heard`
