@@ -12,8 +12,8 @@ ROOT,amira,Tea
 ROOT,awo,Hearing
 ROOT,ilamo,Beauty
 ROOT,jowa,Reading
-ROOT,rini,this
-ROOT,rimi,that
+ROOT,rini,This
+ROOT,rimi,That
 ROOT,la,Yes
 ROOT,linu,Simplicity
 ROOT,eru,All/Every
@@ -50,6 +50,7 @@ PREP,lii,On
 PREP,mali,For
 PREP,mi,Between
 PREP,mui,To
+PREP,ri,At
 PREP,nei,About
 PREP,ni,In
 PREP,wi,Behind
