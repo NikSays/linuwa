@@ -2,10 +2,10 @@ TYPE,root/affix,Meaning
 ROOT,nau,I
 ROOT,reu,You
 ROOT,lio,He/she/it
-ROOT,,Person
-ROOT,,Place
-ROOT,,Tool
-ROOT,alane,knowledge
+ROOT,nino,Person
+ROOT,awili,Place
+ROOT,ilima,Tool
+ROOT,alane,Knowledge
 ROOT,amira,Tea
 ROOT,awo,Hearing
 ROOT,ilamo,Beauty
@@ -26,12 +26,17 @@ ROOT,no,Walk
 ROOT,noi,Building
 ROOT,olora,Love
 ROOT,wio,Sight
+ROOT,miluna,Work
+ROOT,iwome,Change/Shift/Turn
+ROOT,ulamu,Excretion/Extraction
+ROOT,nelumi,Light
 ROOT,eromi,Speed
 ROOT,ilomu,Potential
 ROOT,milane,Passion (necessity)
-ROOT,awora,Knowledge
 ROOT,ewi,Solution
+ROOT,iweno,Again (Re-)
 ROOT,romo,Pain
+ROOT,iwunu,Learning
 PREP,ja,Above
 PREP,ji,With
 PREP,lii,On
