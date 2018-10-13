@@ -14,6 +14,7 @@ ROOT,ilamo,Beauty
 ROOT,jowa,Reading
 ROOT,la,Yes
 ROOT,linu,Simplicity
+ROOT,eru,All/Every
 ROOT,loi,Living
 ROOT,lolo,World
 ROOT,lu,And
@@ -28,6 +29,8 @@ ROOT,no,Walk
 ROOT,noi,Building
 ROOT,olora,Love
 ROOT,wio,Sight
+ROOT,elini,Feeing
+ROOT,arami,Help
 ROOT,miluna,Work
 ROOT,iwome,Change/Shift/Turn
 ROOT,ulamu,Excretion/Extraction
@@ -35,7 +38,7 @@ ROOT,nelumi,Light
 ROOT,eromi,Speed
 ROOT,ilomu,Potential
 ROOT,milane,Passion (necessity)
-ROOT,ewi,Solution
+ROOT,ewi,Solution(Solving)
 ROOT,iweno,Again (Re-)
 ROOT,romo,Pain
 ROOT,iwunu,Learning
@@ -55,6 +58,7 @@ PREF,lo,Adverb/jective
 PREF,mo,Verb in non past
 PREF,me,Verb in past
 PREF,u,Plural
+PREF,e,Imperative
 POSTF,na,Negation
 POSTF,ra,Purpose particle (mowio -to see; mowiora -to look)
 POSTF,wa,The most
