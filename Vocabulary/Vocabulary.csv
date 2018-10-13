@@ -11,7 +11,7 @@ ROOT,awo,Hearing
 ROOT,ilamo,Beauty
 ROOT,jowa,Reading
 ROOT,la,Yes
-ROOT,linu,Easy
+ROOT,linu,Simplicity
 ROOT,loi,Living
 ROOT,lolo,World
 ROOT,lu,And
@@ -21,11 +21,17 @@ ROOT,na,No
 ROOT,naao,Hello
 ROOT,nejo,Cat
 ROOT,nimo,Possesion ('s)
+ROOT,ewa,Achievment
 ROOT,no,Walk
 ROOT,noi,Building
 ROOT,olora,Love
 ROOT,wio,Sight
 ROOT,eromi,Speed
+ROOT,ilomu,Potential
+ROOT,milane,Passion (necessity)
+ROOT,awora,Knowledge
+ROOT,ewi,Solution
+ROOT,romo,Pain
 PREP,ja,Above
 PREP,ji,With
 PREP,lii,On
